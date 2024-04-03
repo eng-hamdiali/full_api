@@ -8,8 +8,7 @@ import sklearn
 from tensorflow.keras.models import load_model
 import cv2
 import numpy as np
-import tempfile
-import os
+
 
 # Define the FastAPI app
 app = FastAPI()

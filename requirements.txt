@@ -5,5 +5,3 @@ scikit-learn
 numpy
 gunicorn
 tensorflow
-tempfile
-os
