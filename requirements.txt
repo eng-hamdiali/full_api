@@ -5,3 +5,5 @@ scikit-learn
 numpy
 gunicorn
 tensorflow
+opencv-python
+temp
