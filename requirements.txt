@@ -7,3 +7,4 @@ gunicorn
 tensorflow
 opencv-python
 temp
+python-multipart
