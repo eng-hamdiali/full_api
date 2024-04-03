@@ -1,0 +1,11 @@
+git status
+git lfs track "*.h5"  #for large files : more than 100 Mb
+git add .
+git commit -m "Your commit message here"
+
+git push / git push origin master #If you haven't set up upstream tracking,
+ 
+git branch -M name_of_branch 
+git push -u origin main
+
+

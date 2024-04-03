@@ -1,0 +1,6 @@
+I created an empty environment in Ananconda like this:
+
+conda create -n api_venv
+Activate it:
+
+source activate api_venv

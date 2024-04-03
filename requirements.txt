@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+numpy
+gunicorn
+tensorflow
+tempfile
+os
