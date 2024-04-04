@@ -7,11 +7,25 @@ import sklearn
 
 from tensorflow.keras.models import load_model
 import cv2
-import numpy as np
+
+from fastapi.middleware.cors import CORSMiddleware
+
+
 
 
 # Define the FastAPI app
 app = FastAPI()
+
+
+# Add CORS middleware with allow_origins set to "*"
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allow_headers=["*"],
+)
+
 
 # Load the ML model using pickle
 with open("lg.pkl", "rb") as f:
