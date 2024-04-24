@@ -8,4 +8,4 @@ tensorflow
 opencv-python
 temp
 python-multipart
-datetime
+ultralytics
