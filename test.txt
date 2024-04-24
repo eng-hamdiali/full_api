@@ -1,4 +1,0 @@
-http://127.0.0.1:8000/predict/?radius_mean=13.54&perimeter_mean=87.46&area_mean=566.3&compactness_mean=0.08129&concavity_mean=0.06664&concave_points_mean=0.04781&radius_se=0.2699&perimeter_se=2.058&area_se=23.56&radius_worst=15.11&perimeter_worst=99.7&area_worst=711.2&compactness_worst=0.1773&concavity_worst=0.239&concave_points_worst=0.1288
-
-http://127.0.0.1:8000/predict/?radius_mean=14.68&perimeter_mean=94.74&area_mean=684.5&compactness_mean=0.072&concavity_mean=0.07395&concave_points_mean=0.05259&radius_se=0.4727&perimeter_se=3.195&area_se=45.4&radius_worst=19.07&perimeter_worst=123.4&area_worst=1138&compactness_worst=0.1871&concavity_worst=0.2914&concave_points_worst=0.1609
-
